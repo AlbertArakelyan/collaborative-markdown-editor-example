@@ -15,6 +15,17 @@
 Collaborative Markdown Editor built on modern and simple web technologies with markdown editing libraries integrations, which allows a few users create and edit markdowns in real time through specific `documentId` sharable link and changes can be saved in <b>database</b>. Can serve as a boilerplate for building your amazing app 😊.
 </p>
 
+## 🔍 Table of Contents
+- [🚀 Features](#-features)
+- [📦 Installation](#-installation)
+- [💡 Contributions](#-contributions)
+- [📄 License](#-license)
+
+## 🚀 Features
+- Collaboriative `Mardkdown` editing in real time through sharable link
+- Documents with their contents can be saved in **database**
+- Documents can be resumed and accessed through their sharable url `/documents/:documentId`
+
 ## 📦 Installation
 - Make sure you have `Docker` installed on your machine
 - And run
@@ -37,3 +48,7 @@ Contributions are welcome! You can help make this example better in several ways
 - **Code Quality**: Review existing code and suggest improvements to make it more readable and maintainable.
 
 Your contributions will make this example more user-friendly, reliable, and bug-free. Every contribution, big or small, is appreciated and will be acknowledged in the project's documentation. Read more in [CONTRIBUTION.md](./CONTRIBUTION.md).
+
+## 📄 License
+
+Licensed under the MIT License.
