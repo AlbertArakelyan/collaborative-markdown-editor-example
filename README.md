@@ -25,3 +25,15 @@ _Note: On older versions of `Docker` through dash_
 ```bash
 docker-compose up
 ```
+
+## 💡 Contributions
+
+Contributions are welcome! You can help make this example better in several ways:
+
+- **Bug Fixes**: If you find any bugs, feel free to open an issue or submit a pull request to fix them.
+- **Feature Requests**: Have an idea for a new feature or improvement? Share it by opening an issue.
+- **Documentation**: Help improve the project's documentation to make it clearer and easier to understand.
+- **Testing**: Write additional tests to ensure the reliability of the code.
+- **Code Quality**: Review existing code and suggest improvements to make it more readable and maintainable.
+
+Your contributions will make this example more user-friendly, reliable, and bug-free. Every contribution, big or small, is appreciated and will be acknowledged in the project's documentation.
