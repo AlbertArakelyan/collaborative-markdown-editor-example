@@ -12,7 +12,7 @@
 </div>
 
 <p align="center" style="width: 90%; margin: 0 auto">
-Collaborative Markdown Editor built on modern and simple web technologies with markdown editing libraries integrations, which allows a few users create and edit markdowns in real time through specific `documentId` sharable link and changes can be saved in <b>database</b> Can serve as a boilerplate for building your amazing app 😊.
+Collaborative Markdown Editor built on modern and simple web technologies with markdown editing libraries integrations, which allows a few users create and edit markdowns in real time through specific `documentId` sharable link and changes can be saved in <b>database</b>. Can serve as a boilerplate for building your amazing app 😊.
 </p>
 
 ## 📦 Installation
