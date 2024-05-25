@@ -12,7 +12,7 @@
 </div>
 
 <p align="center" style="width: 90%; margin: 0 auto">
-Collaborative Markdown Editor built on modern web and simple web technologies with markdown editing libraries integrations. Can serve as a boilerplate for building your amazing app 😊.
+Collaborative Markdown Editor built on modern and simple web technologies with markdown editing libraries integrations. Can serve as a boilerplate for building your amazing app 😊.
 </p>
 
 ## 📦 Installation
