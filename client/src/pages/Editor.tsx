@@ -73,15 +73,18 @@ const Editor = () => {
   return (
     <div className="editor-container">
       <textarea id="editor"></textarea>
-      <div className="preview">
-        <ReactMarkdown
-          remarkPlugins={[remarkGfm, remarkHtml]} // remarkHtml is optional
-          rehypePlugins={[rehypeRaw, rehypeHighlight]}
-        >
-          {content}
-        </ReactMarkdown>
+      <div className="p-2">
+        <div className="preview prose lg:prose-xl">
+          <ReactMarkdown
+            // remarkPlugins={[remarkGfm, remarkHtml]} // remarkHtml is optional
+            rehypePlugins={[rehypeRaw, rehypeHighlight]}
+          >
+            {content}
+          </ReactMarkdown>
+        </div>
+        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2" onClick={saveDocument}>Save</button>
       </div>
-      <button onClick={saveDocument}>Save</button>
+      
     </div>
   );
 };
